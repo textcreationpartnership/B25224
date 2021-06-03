@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle from Thomas Janney to Friends of Cheshire, and by them desired to be made publick.</title>
+            <author>Janney, Thomas, 1633?-1696.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25224</idno><idno type="EEBO-CITATION">18367880</idno>
+  <idno type="VID">206508</idno>
+  <idno type="EEBO-PROQUEST">2240892249</idno>
+  
+            <idno type="STC">Wing J480A</idno>
+            <idno type="OCLC">18367880</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206508)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle from Thomas Janney to Friends of Cheshire, and by them desired to be made publick.</title>
+                  <author>Janney, Thomas, 1633?-1696.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"From my house near the falls of Delaware in the county of Bucks in Pensylvania, the 16th day of the 10th. month, 1693."--p. 8.</note>
+                  <note>Reproduction of original in the John Rylands University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206508:1"/>
+            <pb facs="tcp:206508:1"/>
+            <pb facs="tcp:206508:2"/>
+            <pb n="1" facs="tcp:206508:2"/>
+            <head>AN EPISTLE FROM <hi>Thomas Ianney,</hi> TO FRIENDS of <hi>CHESHIRE,</hi> And by them desired to be made Publick.</head>
+            <opener>
+               <salute>Dearly Beloved Friends,</salute>
+            </opener>
+            <p>YOU amongst whom I have been Conversant, when I lived with you, in the Land of my Nativity; and amongst whom sometimes I Laboured in that Ability, I had Received from the Lord, in some Travails, Exercises, and Labours of Love; in all which I can Appeal to God (and I also Hope that I have a Witness in you) that I never Sought my Self, Neither Profit nor Praise of
+<pb n="2" facs="tcp:206508:3"/> Men, but have Sought the Honour of God, the Exalta<g ref="char:EOLhyphen"/>tion of his Truth, and the gathering of People thereinto, and their Growth and Establishment therein; and Blessed be the Lord, who hath not been wanting in his Rewards <hi>&amp;c.</hi> And Dear Freinds, having had many oppertunities with you, in which we have been Refreshed, and Comforted together, in the Feeling of that Arm, that gathered us; and in the sweet sence of the Love, and Mercy of our God, Shed abroad in our Hearts, where by we have been enlarged towards the Lord, and also our Love and Unity one towards another: And Blessed be the God of all our Mercies, the same Love, Unity, and Holy Society, is preserved, and continued amongst all the Faithful, unto this Day; and now Oh! my Beloved Friends, the Remembrance of those former oppertunities, and the Sweet Refreshment therein Enjoyed, have been often in my Heart, since I saw Your Faces, Yea, they are upon my Soul from season to season, in which you are made very Near, and Dear unto me, so that I may truly say, that Length of Time, nor this Far Distance at which we are outwardly Separated, cannot Seperate me in Spirit from you, nor blot you out of my Remembrance, but my Heart is Tendered, and my love accompanied with Holy Breathings, and Fervent desires unto the Lord, for your Stability, and Growth in the Truth. And Dear Freinds, this Fresh, and Living Remembrance of you, Remaining in me, draws me to give you this De<g ref="char:EOLhyphen"/>monstration thereof, in the Tender Salutation of my Dear and Unfained love unto you all, but most especially, to those that yet remain of them, who received the Truth, in an Early Hour of this Blessed Day, and have born their part of the Heat and Burthen thereof, who have helped to Tread out the Path for them, that have and yet may follow after; although it hath been through many Sufferings, Various Exercises, and Difficulties which have attended them in that work and day: I say all such
+<pb n="3" facs="tcp:206508:3"/> who have kept their Integrity, and have not lost their first love, are very Dear unto me.</p>
+            <p>And all you Dear Freinds, who have Come in of Later Times, who love the Truth, and prize the love of God in visiting you therewith; the Salutation of my love doth hereby Reach unto you, and the Breathing of my Soul is unto God for you, that in a Holy perse<g ref="char:EOLhyphen"/>verance in the way of Truth and Life, and also in the work of your day you may be preserved, in your Re<g ref="char:EOLhyphen"/>spective places and services, which the Lord hath called you unto, and fitted you for.</p>
+            <p>And all you Young and Tender ones, who are a Ge<g ref="char:EOLhyphen"/>neration, now growing up after us; the Lord who is the Searcher of all Hearts, he knoweth the secret Exer<g ref="char:EOLhyphen"/>cises, and inward Travels, that is often in my Soul on your behalfs; and not in m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only, but I am satisfied, the like is in many more, together also with the many Supplications that are put up unto the Lord on your be<g ref="char:EOLhyphen"/>half; that you may be a Generation that may serve the Lord in Righteousness; and in order thereunto, keep you down unto Gods Holy Witness, in your own Hearts, that you may thereby See, Consider, and Improve, the many Priviledges, and Advantages, which the Lord affor<g ref="char:EOLhyphen"/>deth unto you, (above, and beyond what many have had in their Youth, who have gone before you) in the enjoy<g ref="char:EOLhyphen"/>ment o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many oppertunities, in which, how often hath, Yea, and doth the Lord cause his Heavenly Trumpet to be Sounded giving a certain Sound, not only for your true Info<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mation; bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> also how many Exhortations▪ and Faith<g ref="char:EOLhyphen"/>ful Warnings have you had, and that from the spirit of the Lor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ let his Witness in you all answer. And More<g ref="char:EOLhyphen"/>over, many of you have had both the Advice and Ex<g ref="char:EOLhyphen"/>ample of Godly Parents, who have been and are greatly concerned for you▪ and that you might stand up in their places, in a faith<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul Testimony unto the never Dying Truth, when they are gone to their Rest, following the
+<pb n="4" facs="tcp:206508:4"/> foot-steps of the Flock; that hath gone before you, and be a G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neration blessed of the Lord; but, if any of you slight the mercies of the Lord, and the great benefits he tender<g ref="char:EOLhyphen"/>eth you, some of which I have oft hinted unto you before, (and many more I might have mention'd) and suffer your hearts to be drawn aside, by the Spirit of this World, then will you grow into Hardness, and get above his Witness, and kick against the reproofs of Instruction, either dicta<g ref="char:EOLhyphen"/>ted to you by the Spirit of the Lord in your selves or Pa<g ref="char:EOLhyphen"/>rents, or any other who are truly concerned for your good; if thus I say you abuse the love of God, then he in wrath will enter into Judgment with you, and it will be more to<g ref="char:EOLhyphen"/>lerable for them that never heard the Name of the Lord mention'd, nor his Truth declared, then it will be for you.</p>
+            <p>But all Friends, both Old and Young, prize you the love of our God, in which he hath visited us, and in which he hath preserved us unto this day, and in which he still waites to be gracious unto us; therefore keep down to that ho<g ref="char:EOLhyphen"/>ly breathing Seed, which the Lord is raising in this his pow<g ref="char:EOLhyphen"/>erful day, whereby he hath begotten you in measure unto himself, and thereby you will kept in a dependancy up<g ref="char:EOLhyphen"/>on the Lord, daily waiting for a fresh Supply from him, (that so you may not grow weary in the way of the Lord,) but may be furnished thereby for the work of your day, in your respective places and services, unto which the Lord hath called you. For, dear Friends, many of you are not unacquainted, that many are the Wiles, and Various the Workings of the Enemy, whereby he endeavours to keep from a holy perseverance in the way of the Lord, and to weaken our hands in his Work; that so if possible, he may deprive us of our Reward: endeavouring to work upon us according to our various Inclinations, Weakness and Wills; and therefore a few things are at present before me, to advise and caution you in, especially such as may not be so well acquainted with the Wiles of <hi>Satan.</hi>
+            </p>
+            <pb n="5" facs="tcp:206508:4"/>
+            <p> And First, beware of living above the Seed of God, in an airy mind, for that mind is easily drawn into the Vani<g ref="char:EOLhyphen"/>ties of thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, and therein ensnared; and therefore I Advise and Exhort you, where that Nature lies near, to keep it under the Yoke, that as the Apostle exhorted the Churches in his day, there may be no persons amongst us, as <hi>Esau</hi> was, who sold his Bi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h-right for a thing of Naught.</p>
+            <p>Also, beware lest the <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e of this World prevails in any above the love of God; for if the earthly Mind pre<g ref="char:EOLhyphen"/>vails, it will bring an unconcern dress over thee, in re<g ref="char:EOLhyphen"/>spect of the Work of the Lord, and too little regard to the Affairs of the Church of Christ, and weaken thee in thy Place and Service, which the Lord hath called thee unto; and therefore all in whom this Spirit may lie near, watch against it, lest it prevailing should draw thee <hi>De<g ref="char:EOLhyphen"/>mas</hi> like, to forsake the Truth for the love of this pre<g ref="char:EOLhyphen"/>sent World.</p>
+            <p>Again, beware of that Spirit which is over forward, and works in the will of Man, for that leads to go a<g ref="char:EOLhyphen"/>bout the weighty things of God and Truth, in an over<g ref="char:EOLhyphen"/>ly, unconcerned and unsanctified Mind, and such in mat<g ref="char:EOLhyphen"/>ters appertaining to the Church of Christ, will more seek its own Honour and the Praise of Men, then the Honour of God, and Comfort of his People.</p>
+            <p>But all dear Friends, who are in such affairs concern'd, waite you low upon the Lord, to feel your Hearts sea<g ref="char:EOLhyphen"/>soned by him, and your Spirits weightily composed be<g ref="char:EOLhyphen"/>fore him; so will the Lord's Council open in you, and his Will will be done by you, and his Peace will be felt in you, and his Honour you will seek and not your own, and so will Peace, True love, and Unity grow amongst you; and thus the Lord will make you Honourable in his House. Also Friends, as the Apostle advised the Church in his day, so do I advise and exhort you to be<g ref="char:EOLhyphen"/>ware, lest the Serpent through his Subtilty, as he be<g ref="char:EOLhyphen"/>guiled <hi>Eve,</hi> should beguile any of you with any fair pre<g ref="char:EOLhyphen"/>tence
+<pb n="6" facs="tcp:206508:5"/> whatsoever, thereby to draw you from the Foun<g ref="char:EOLhyphen"/>dation of God, or as he did to <hi>Eve,</hi> presenting the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od<g ref="char:EOLhyphen"/>liness of the Tree of Knowledge, and then enticing her to eat of the Fruit thereof, pretending to her, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat if they would feed thereon, they should be as Gods; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his begot in her an inordinate desire after it▪ and then she thought it to be good for Food, after the Tempt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on had ent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed her, althoug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before whilst she good in the Council of God, and had regard to his Command, she saw the Danger, and said, <hi>We may not touch it lest we die.</hi>
+            </p>
+            <p>So I exhort you, dear Friends, to beware lest any of you should be taken with the like Temptation, for if it enter, it will draw your Minds, so after it, that it will cause you to neglect the way of Life, your waiting to feel it, and your desire to feed upon it; and then a wither<g ref="char:EOLhyphen"/>ing and decaying to the life of God will gradua<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly steal upon you; but in the Holy Life, the Wisdom whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is from above, is received, which is first Pure, then Peaceab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, Gentle and Easie to be entreated, <hi>&amp;c.</hi> and the encrea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of his Wisdom tendeth to the Edification, and Peace of the Church; but where the desire takes place that would be Wise, more then Holy, and more Thirsty to know than to feel and obey, this I say, draws into a notional and empty knowledge, and begets Conceite<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ness, Am<g ref="char:EOLhyphen"/>bition, and Spiritual Pride, and leads from the Meekness and Innocency of a Sheep of Christ, into the rough Na<g ref="char:EOLhyphen"/>ture of a Goat that climbs and feeds high, in Conceit and Notion, and not in the valley of true Humility, but rambles over all Fences: So that the Bounds of Truth, are too straight for him, perhaps both in Principle and Practice, and not only so, but those are apt to thrust with Thigh, and Shoulder against the poor of the Flock, and such cause Molestation, Trouble, and Exercises in the Church of Christ, rather then Comfort, Edification and Peace.</p>
+            <pb n="7" facs="tcp:206508:5"/>
+            <p> And this farther I have to Testifie, the Lord is come and coming, to judge between Cattle and Cattle, not on<g ref="char:EOLhyphen"/>ly to see what is begotten, but also to see what begets and what Men beget by; now if any work in the Wis<g ref="char:EOLhyphen"/>dom which is from below, and their own Parts and Abi<g ref="char:EOLhyphen"/>lities in the will of Man, such beget not to God, but be<g ref="char:EOLhyphen"/>get into their own Image; and hence springeth the win<g ref="char:EOLhyphen"/>dy Doctrine, which unsettles People, and tosses them too and fro; and likewise hereby they come to be puffed up, with conceits of their own Wisdom, and Attainments, but are far from a State of true Purity. Much further could I track this Spirit, but I conclude it here, it makes People like the Church of <hi>Laodicea,</hi> that thought she was Wise and Rich, <hi>&amp;c.</hi> when she was Poor, and Blind, and Naked.</p>
+            <p>But all you my dear Friends, who keep to that living Word, (whereby you have been begotten to God, and made Sheep of Christ,) wherein your Souls in every Exer<g ref="char:EOLhyphen"/>cise and Service, the Lord calls you unto, depend upon him, to be abilitated by him, knowing you can do nothing of your selves, as you wait to feel the rising and oppe<g ref="char:EOLhyphen"/>ration of his living Powerful Word, which begets into its Image a true Sheep, Meek and Innocent, and these wait to be led by the good Shepherd, into the low Val<g ref="char:EOLhyphen"/>lies where they meet with living Refreshment; and can<g ref="char:EOLhyphen"/>not feed upon the Barren Mountains, in Notions, and Imaginations, but wait to feel the Bread of Life broken, and the fresh Springs opened unto their Souls; and these know and wait to hear the Voice of the good Shepherd, and follow him, and will not hear the Strangers Voice, neither follow his Alurements; but follow their good Shepherd in the path of the Just, which is the bright Shining Light, and wait to feel him to put them forth, and to go before them, and guide them in all their Exercises: and in their Depending upon him, and Obedience unto him, they Witness his Promise made good unto them, who said of such, I give unto them Eternal Life.</p>
+            <pb n="8" facs="tcp:206508:6"/>
+            <p> So dear Friends, I commit you to God, and commend you to the Word of his Grace, in which you have believ<g ref="char:EOLhyphen"/>ed, and it is become the word of Faith to us, as it was to the Primitive Christians, and we know it to be a quick and powerful Word, the Word of Patience, and the Word of Wisdom, having thereby been quickned to God, and also have been thereby prepared for, and preserved in, and carried through many Exercises, in obedience to it: and all who keep, to it know, it lives and abides, and are thereby kept alive to God, and bring forth Fruits of Righteousness and Holiness to the Praise and Glory of God, and their own Consolation and Comfort, and that we may all in so doing be preserved unto the end, is the earnest desire of your unfeigned Friend,</p>
+            <closer>
+               <signed>THOMAS JANNEY.</signed>
+               <dateline>From my House near the Falls of <hi>Delaware</hi> in the County of <hi>Bucks</hi> in <hi>Pensylvania,</hi>
+                  <date>the 16th day of the 10th. Month, 1693.</date>
+               </dateline> I desire this may be Read and Received in a measure of the same Love in which I send it.</closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the Meeting-House in <hi>White-hart-court</hi> in <hi>Gracious-street,</hi> 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
